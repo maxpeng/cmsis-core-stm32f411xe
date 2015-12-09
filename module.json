@@ -1,0 +1,24 @@
+{
+  "name": "cmsis-core-stm32f411xe",
+  "version": "1.0.3",
+  "description": "CMSIS Core module for stm32f411xe microcontrollers",
+  "keywords": [
+    "mbed",
+    "mbed-official"
+  ],
+  "author": "Brendan Moran <brendan.moran@arm.com>",
+  "homepage": "https://github.com/ARMmbed/cmsis-core-st-stm32f411xe",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/BSD-3-Clause",
+      "type": "BSD-3-Clause"
+    }
+  ],
+  "extraIncludes": [
+    "cmsis-core-stm32f411xe"
+  ],
+  "dependencies": {
+    "cmsis-core": "*"
+  },
+  "targetDependencies": {}
+}
