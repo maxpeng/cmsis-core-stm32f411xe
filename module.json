@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-stm32f411xe",
-  "version": "1.0.3",
+  "version": "0.0.1",
   "description": "CMSIS Core module for stm32f411xe microcontrollers",
   "keywords": [
     "mbed",
